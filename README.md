@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🤖 AI Data Assistant Agent — LangChain × Streamlit × Docker
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/ricardos-ai/ai-agent?quickstart=1)
@@ -72,4 +72,3 @@ Future iterations will extend to multi-agent coordination, vector-based reasonin
 =======
 # ai-agent
 A production ready AI agent integrating LangChain, Streamlit, and Docker to enable real time LLM reasoning, data retrieval (RAG, SQL, Pandas), conversational memory, and feedback tracking, demonstrating advanced AI engineering, model orchestration, and containerized deployment skills.
->>>>>>> 6e096cd2bfae8e4693112b582bb2efeaf25f6a2b
